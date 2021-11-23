@@ -1,15 +1,16 @@
 # This is the note of computer system
 **Noting is such a good way to inprove you ability on remember things during the class.**
 ## Chapter one 
+![S__11821088](https://user-images.githubusercontent.com/93903961/142815150-d93cbdc6-b2db-4d93-82ae-7d6dc6f96447.jpg)
 [馮紐曼程式:四大系統](https://zh.wikipedia.org/wiki/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84)
 
--記憶-
+- 記憶
 
--算數
+- 算數
 
--邏輯
-
--輸入\輸出 
+- 邏輯
+ 
+- 輸入\輸出 
 
 ## 預計之後的作業面向
 
@@ -21,12 +22,12 @@
 # The chart of the class
 |朋友| 人品| 我是誰 | 女朋友 |
 ----------|-------|------|-------|
-|鄭同學|2017.2 | yes | working   |
-|班代小姐|3.8 |yes | working   |
-|班代小姐女朋友|10 |yes | working   |
-|史丹利|17.10 |yes | working   |
+|鄭同學| 不錯 | classmate | 不知道  |
+|班代小姐|很讚 |classmate| 她是女的   |
+|班代小姐女朋友|你好啊 |classmate | she's a girl too   |
+|[史丹利](https://www.youtube.com/watch?v=mLDazwuh3JQ)|很讚 |classmate| 應該沒有吧   |
 
-![S__11821088](https://user-images.githubusercontent.com/93903961/142815150-d93cbdc6-b2db-4d93-82ae-7d6dc6f96447.jpg)
+
 ![S__11821090](https://user-images.githubusercontent.com/93903961/142815195-695f78d3-4312-4316-8150-464cb0f9bf8a.jpg)
 ![S__11821091](https://user-images.githubusercontent.com/93903961/142815210-bffc42ad-a510-465c-9e2b-4a95097c3f74.jpg)
 ![S__11821092](https://user-images.githubusercontent.com/93903961/142815224-51c1e025-9042-41c6-88f1-f9946654381c.jpg)
