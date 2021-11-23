@@ -1,3 +1,31 @@
+# This is the note of computer system
+**Noting is such a good way to inprove you ability on remember things during the class.**
+## Chapter one 
+[馮紐曼程式:四大系統](https://zh.wikipedia.org/wiki/%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC%E7%BB%93%E6%9E%84)
+
+-記憶-
+
+-算數
+
+-邏輯
+
+-輸入\輸出 
+
+## 預計之後的作業面向
+
+- [ ] 用很多的超連結
+- [ ] 想要有女朋友
+- [ ] 想要畢業
+- [ ] 去讀學士後醫
+
+# The chart of the class
+|朋友| 人品| 我是誰 | 女朋友 |
+----------|-------|------|-------|
+|鄭同學|2017.2 | yes | working   |
+|班代小姐|3.8 |yes | working   |
+|班代小姐女朋友|10 |yes | working   |
+|史丹利|17.10 |yes | working   |
+
 ![S__11821088](https://user-images.githubusercontent.com/93903961/142815150-d93cbdc6-b2db-4d93-82ae-7d6dc6f96447.jpg)
 ![S__11821090](https://user-images.githubusercontent.com/93903961/142815195-695f78d3-4312-4316-8150-464cb0f9bf8a.jpg)
 ![S__11821091](https://user-images.githubusercontent.com/93903961/142815210-bffc42ad-a510-465c-9e2b-4a95097c3f74.jpg)
