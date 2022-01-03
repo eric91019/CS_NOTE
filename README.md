@@ -25,7 +25,7 @@
 ----------|-------|------|-------|
 |鄭同學| 不錯 | classmate | 不知道  |
 |班代小姐|很讚 |classmate| 她是女的   |
-|班代小姐女朋友|你好啊 |classmate | she's a girl too   |
+|班代小姐女性朋友|你好啊 |classmate | she's a girl too   |
 |[史丹利](https://www.youtube.com/watch?v=mLDazwuh3JQ)|很讚 |classmate| 應該沒有吧   |
 
 
@@ -40,4 +40,5 @@
 ![S__11821098](https://user-images.githubusercontent.com/93903961/142815310-5db56be7-e13d-45f5-8991-950e252305e8.jpg)
 ![S__11821099](https://user-images.githubusercontent.com/93903961/142815321-9c3f2d55-4462-4033-add7-15aa959f7119.jpg)
 ![S__11821101](https://user-images.githubusercontent.com/93903961/142815336-09cdef2a-c557-4fa2-9fb6-b14cf34effa8.jpg)
-# CS_NOTE
+# 接下來是期末考的筆記
+
